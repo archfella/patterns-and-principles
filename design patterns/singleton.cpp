@@ -1,5 +1,7 @@
 #include <string>
 /*
+    SINGLETON:
+
     - We need to have ONLY ONE INSTANCE of the class.
     - We want to have a GLOBAL ACCESS POINT to that instance.
     - We want to DERIVE from a Singleton class. A client DOES NOT need to change his code to use the derived class object.
