@@ -23,7 +23,7 @@
         }
 
     --> this means that each time we want to add a new type of sorting algorithm we need to OPEN the 'sort()'
-    method and CHANGE it (this violates the open/closed principle).
+    method and CHANGE it (this violates the open/closed principle - open for extension, closed for modification).
 
     - When we have a FAMILY OF SIMILAR ALGORITHMS, we can encapsulate each algorithm in a
     SEPARATE CLASS.
