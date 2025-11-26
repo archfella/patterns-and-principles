@@ -10,7 +10,7 @@ It decouples:
 
 ---
 
-## ✔ Intent
+## Intent
 
 - Encapsulate a request as an object
 - Support **undo/redo**, logging, command queues, and macros
@@ -18,7 +18,7 @@ It decouples:
 
 ---
 
-## ✔ When to Use the Command Pattern
+## When to Use the Command Pattern
 
 ### **1. Undo/Redo functionality**
 
@@ -57,7 +57,7 @@ Example:
 
 ---
 
-## ✔ Roles in the Pattern
+## Roles in the Pattern
 
 ### **1. Command (Interface)**
 
