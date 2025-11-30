@@ -1,0 +1,15 @@
+class KonkretnaFabrikaB extends ApstraktnaFabrika{
+
+    public KonkretnaFabrikaB(Proizvod1B proizvod1, Proizvod2B proizvod2) {
+        super(proizvod1, proizvod2);
+    }
+
+    public Proizvod1 napraviProizvod1(){
+        return this.proizvod1.clone();
+    }
+
+    public Proizvod2 napraviProizvod2(){
+        return this.proizvod2.clone();
+    }
+
+}

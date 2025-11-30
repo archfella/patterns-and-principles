@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beverages/Beverages.iml" filepath="$PROJECT_DIR$/Beverages/Beverages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coffee/Coffee.iml" filepath="$PROJECT_DIR$/Coffee/Coffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuestionChooser/QuestionChooser.iml" filepath="$PROJECT_DIR$/QuestionChooser/QuestionChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SaveCommand/SaveCommand.iml" filepath="$PROJECT_DIR$/SaveCommand/SaveCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedHAL/SpeedHAL.iml" filepath="$PROJECT_DIR$/SpeedHAL/SpeedHAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Textures/Textures.iml" filepath="$PROJECT_DIR$/Textures/Textures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadaci PS.iml" filepath="$PROJECT_DIR$/Zadaci PS.iml" />
+    </modules>
+  </component>
+</project>
