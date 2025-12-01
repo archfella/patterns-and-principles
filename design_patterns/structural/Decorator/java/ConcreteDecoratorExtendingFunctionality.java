@@ -14,6 +14,4 @@ public class ConcreteDecoratorExtendingFunctionality extends Decorator {
     private void addedOperation() {
         System.out.println("Decorator adds functionality!");
     }
-
-    private Component component;
 }

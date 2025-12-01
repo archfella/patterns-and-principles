@@ -1,6 +1,8 @@
 package Decorator.java;
 
 public class ConcreteDecoratorExtendingState extends Decorator {
+    private final State state;
+
     public ConcreteDecoratorExtendingState(Component component, State state) {
         super(component);
         this.state = state;
@@ -11,6 +13,4 @@ public class ConcreteDecoratorExtendingState extends Decorator {
         component.operation();
         System.out.println("State (only x and y): " + state.x + " " + state.y);
     }
-
-    private State state;
 }
